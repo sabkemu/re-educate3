@@ -4,6 +4,7 @@
     height: 70px;
     background-color: black;
     margin: 10px;
+    float: left;
 }
   /* Question 2 */
 .gone {
@@ -11,6 +12,7 @@
     color: grey;
     font-size: 30px;
     width: 100px;
+    display: none;
 }  
 .layoutExamplesWrapper > a {
     display: block;
